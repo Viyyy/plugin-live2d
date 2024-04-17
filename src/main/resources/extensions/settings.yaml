@@ -308,6 +308,10 @@ spec:
                   label: gpt-4
                 - value: gpt-3.5-turbo
                   label: gpt-3.5-turbo
+                - value: moonshot-v1-8k
+                  label: moonshot-v1-8k
+                - value: moonshot-v1-32k
+                  label: moonshot-v1-32k
     - group: advanced
       label: 高级设置
       formSchema:
