@@ -316,6 +316,8 @@ spec:
                   label: glm-4
                 - value: glm-3-turbo
                   label: glm-3-turbo
+                - value: langlangy-gemma-7b
+                  label: langlangy-gemma-7b
     - group: advanced
       label: 高级设置
       formSchema:
