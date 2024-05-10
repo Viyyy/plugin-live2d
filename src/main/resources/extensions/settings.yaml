@@ -314,8 +314,8 @@ spec:
                   label: moonshot-v1-32k
                 - value: glm-4
                   label: glm-4
-                - value: glm-3.5-turbo
-                  label: glm-3.5-turbo
+                - value: glm-3-turbo
+                  label: glm-3-turbo
     - group: advanced
       label: 高级设置
       formSchema:
